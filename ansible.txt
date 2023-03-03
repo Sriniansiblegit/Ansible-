@@ -1,1 +1,3 @@
-s this is a new files 
+s this is a new files
+
+Changing a content in the file
